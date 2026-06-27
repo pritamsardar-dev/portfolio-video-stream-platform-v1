@@ -4,7 +4,7 @@ VidFlow is a backend focused video streaming platform that demonstrates secure a
 
 Built with Node.js, Express, MongoDB, JWT, and Cloudinary, the project focuses on scalable API design, efficient database querying with aggregation pipelines, and maintainable backend architecture commonly used in modern web applications.
 
-Source Code: https://github.com/pritamsardar-dev/portfolio-video-stream-platform-v1 &nbsp;|&nbsp; Case Study: https://pritamsardar.dev/case-study/portfolio-video-stream-platform-v1
+Source Code: https://github.com/pritamsardar-dev/portfolio-video-stream-platform-v1 &nbsp;|&nbsp; Case Study: https://www.pritamsardar.dev/full-case-study/project-row-vidflow?source=case-studies
 
 ---
 
